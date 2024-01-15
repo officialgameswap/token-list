@@ -1,0 +1,31 @@
+{
+    "name": "GameSwap Zksync Tokens List",
+    "timestamp": "2024-01-10T15:11:40.771Z",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "patch": 0
+    },
+    "tags": {},
+    "logoURI": "https://gameswap.exchange/logo.png",
+    "keywords": ["gameswap", "default"],
+    "tokens": [
+      {
+        "name": "Wrapped Ether",
+        "address": "0x5AEa5775959fBC2557Cc8789bC1bf90A239D9a91",
+        "symbol": "WETH",
+        "decimals": 18,
+        "chainId": 324,
+        "logoURI": "https://raw.githubusercontent.com/officialgameswap/token-list/main/images/324/tokens/0x5AEa5775959fBC2557Cc8789bC1bf90A239D9a91.png"
+      },
+      {
+        "name": "USD Coin",
+        "address": "0x3355df6D4c9C3035724Fd0e3914dE96A5a83aaf4",
+        "symbol": "USDC",
+        "decimals": 6,
+        "chainId": 324,
+        "logoURI": "https://raw.githubusercontent.com/officialgameswap/token-list/main/images/324/tokens/0x3355df6D4c9C3035724Fd0e3914dE96A5a83aaf4.png"
+      }
+    ]
+  }
+  
