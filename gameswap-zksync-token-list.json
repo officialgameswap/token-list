@@ -25,6 +25,14 @@
         "decimals": 6,
         "chainId": 324,
         "logoURI": "https://raw.githubusercontent.com/officialgameswap/token-list/main/images/324/tokens/0x3355df6D4c9C3035724Fd0e3914dE96A5a83aaf4.png"
+      },
+      {
+        "name": "Tether USD",
+        "address": "0x493257fD37EDB34451f62EDf8D2a0C418852bA4C",
+        "symbol": "USDT",
+        "decimals": 6,
+        "chainId": 324,
+        "logoURI": "https://raw.githubusercontent.com/officialgameswap/token-list/main/images/324/tokens/0x493257fD37EDB34451f62EDf8D2a0C418852bA4C.png"
       }
     ]
   }
