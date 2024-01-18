@@ -4,7 +4,7 @@
     "version": {
       "major": 1,
       "minor": 0,
-      "patch": 0
+      "patch": 1
     },
     "tags": {},
     "logoURI": "https://gameswap.exchange/logo.png",
@@ -33,6 +33,14 @@
         "decimals": 6,
         "chainId": 324,
         "logoURI": "https://raw.githubusercontent.com/officialgameswap/token-list/main/images/324/tokens/0x493257fD37EDB34451f62EDf8D2a0C418852bA4C.png"
+      },
+      {
+        "name": "zkBumblebee",
+        "address": "0x598B570fBbe2B511263667FD1Ae916386315AbDC",
+        "symbol": "BUM",
+        "decimals": 18,
+        "chainId": 324,
+        "logoURI": "https://raw.githubusercontent.com/officialgameswap/token-list/main/images/324/tokens/0x598B570fBbe2B511263667FD1Ae916386315AbDC.png"
       }
     ]
   }
